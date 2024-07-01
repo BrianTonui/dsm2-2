@@ -1,0 +1,26 @@
+[
+    {
+        "task": "write code ",
+        "completed": true
+    },
+    {
+        "task": "drink coffee ",
+        "completed": false
+    },
+    {
+        "task": "do recon ",
+        "completed": false
+    },
+    {
+        "task": "write a personal diary ",
+        "completed": true
+    },
+    {
+        "task": "take lunch ",
+        "completed": false
+    },
+    {
+        "task": "play billards ",
+        "completed": true
+    }
+]
